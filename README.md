@@ -1,5 +1,5 @@
-# rubriks
-The task is to calculate the number of pieces on a rubriks cube given that you have the height.
+# rubiks
+The task is to calculate the number of pieces on a rubiks cube given that you have the height.
 
 **Line1:** Number of different sizes to read from standard input.
 
